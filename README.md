@@ -4,7 +4,7 @@
 ## [⬇ Download](https://raw.githack.com/Zoult/spotify-account-changer/main/Spotify%20Account%20Changer.bat)
 
 ### ⚠️ Disclaimer
-Spotify Account Changer (AKA S.A.C. or SAC) is a tool that helps Spotify users changing between accounts, without inserting credentials everytime, especially for strong password users that have to open their password manager. For any security check, this tool is free and open source so it can be revised and edited to assure the user that this tool is completely harmless.
+Spotify Account Changer (AKA S.A.C. or SAC) is a tool that helps Spotify users changing between accounts, without inserting credentials everytime, especially for strong password users that have to open their password manager.
 
 ### 📖 Requirements
 - Spotify
